@@ -1,36 +1,51 @@
 # Clean-Mushaf
 
-Bismillah. This is a high-resolution (vectorised) and minimalistic PDF of the Medina mushaf, with an outline containing all english surah names and numbers. It is a compiled version of the SVG files [here](https://github.com/batoulapps/quran-svg/tree/main). Put it on your phone, so you can always have available a copy of the mushaf that you can annotate and refer to. If you are using iPhone, I highly recommend the `PDF Viewer` application, which is fast and has a ad-free and versatile free tier.
+**Bismillah.** This project provides a high-resolution, vectorized, and minimalistic PDF of the Medina Mushaf, complete with an outline containing all English Surah names and numbers. This PDF is compiled from the SVG files available [here](https://github.com/batoulapps/quran-svg/tree/main). Download it to your phone to have a beautiful, annotatable copy of the Mushaf always available for reference. For iPhone users, I highly recommend using the `PDF Viewer` app, which is fast, ad-free, and offers a versatile free tier.
 
-Please open a github issue if you can think of any improvements to the PDF!
+If you have suggestions or improvements for the PDF, please feel free to open an issue on GitHub!
 
-## How to Use this Repository
-#### Option 1: Simply download the mushaf
+## How to Use This Repository
 
-Download Link [(Google Drive)](https://drive.google.com/file/d/15eOohukjSJD95aqnxm9RgbeqeNRvYsgw/view?usp=sharing)
+### Option 1: Simply Download the Mushaf
 
-**Notes**
-- The file size is almost 200 Mb; I could not find a way to further reduce the size while keeping the high resolution.
+**[Download Link (Google Drive)](https://drive.google.com/file/d/15eOohukjSJD95aqnxm9RgbeqeNRvYsgw/view?usp=sharing)**
 
-#### Option 2: Compile the mushaf yourself using Python
-This is tested for Ubuntu.
+**Notes:**
+- The file size is approximately 200 MB. The high resolution of the pages necessitates this size, and further compression would compromise quality.
 
-Step 1: Clone [this](https://github.com/batoulapps/quran-svg/tree/main) repository, which contains SVG files of each individual page of the Quran.
-Step 2: Copy the *svg* folder into this repository, renaming it as *quran_svg*.
-Step 3: Install inkscape, which gives you a command-line tool to convert from svg to pdf's.
-```
-sudo add-apt-repository universe
-sudo add-apt-repository ppa:inkscape.dev/stable
-sudo apt-get update
-sudo apt install inkscape
-```
+### Option 2: Compile the Mushaf Yourself Using Python
 
-Step 4: Install pypdf
-```
-pip install pypdf
-```
+This method is tested on Ubuntu.
 
-Step 5: Walk through `svg_to_pdf.ipynb`, which 
-1. Converts each svg page into a pdf
-2. Merges all of the pages together 
-3. Writes a table of contents with the surah names
+**Steps:**
+
+1. **Clone the SVG Repository:**
+   Clone the repository containing the SVG files of each page of the Quran:
+   ```
+   git clone https://github.com/batoulapps/quran-svg
+   ```
+2. **Copy the SVG Files:**
+   Copy the `svg` folder into this repository and rename it to `quran_svg`.
+
+3. **Install Inkscape:**
+   Inkscape provides a command-line tool to convert SVG files into PDFs. Install it using the following commands:
+   ```bash
+   sudo add-apt-repository universe
+   sudo add-apt-repository ppa:inkscape.dev/stable
+   sudo apt-get update
+   sudo apt install inkscape
+   ```
+
+4. **Install PyPDF:**
+   Install PyPDF to handle the merging of PDF pages and creating a table of contents:
+   ```bash
+   pip install pypdf
+   ```
+
+5. **Run the `svg_to_pdf.ipynb` Notebook:**
+   This notebook will:
+   - Convert each SVG page into a PDF.
+   - Merge all the pages into a single document.
+   - Write a table of contents with Surah names.
+
+**If you find this project useful, please consider [*buying me a coffee*](https://ko-fi.com/haqihaq)!** 
