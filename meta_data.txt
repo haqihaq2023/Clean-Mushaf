@@ -1,0 +1,114 @@
+1. Al-Fatihah - The Opening,0
+2. Al-Baqarah - The Cow,1
+3. Ali 'Imran - The Family of Imran,49
+4. An-Nisa - The Women,76
+5. Al-Ma'idah - The Table,105
+6. Al-An'am - The Cattle,127
+7. Al-A'raf - The Heights,150
+8. Al-Anfal - The Spoils of War,176
+9. At-Tawbah - Repentance,186
+10. Yunus - Jonah,207
+11. Hud - Hud,220
+12. Yusuf - Joseph,234
+13. Ar-Ra'd - The Thunder,248
+14. Ibrahim - Abraham,254
+15. Al-Hijr - The Rocky Tract,261
+16. An-Nahl - The Bees,266
+17. Al-Israa - The Night Journey,281
+18. Al-Kahf - The Cave,292
+19. Maryam - Mary,304
+20. Ta-Ha - Ta-Ha,311
+21. Al-Anbiya - The Prophets,321
+22. Al-Hajj - The Pilgrimage,331
+23. Al-Mu'minun - The Believers,341
+24. An-Nur - The Light,349
+25. Al-Furqan - The Criterion,358
+26. Ash-Shu'ara - The Poets,366
+27. An-Naml - The Ant,376
+28. Al-Qasas - The Stories,384
+29. Al-Ankabut - The Spider,395
+30. Ar-Rum - The Romans,403
+31. Luqmaan - Luqman,410
+32. As-Sajdah - The Prostration,414
+33. Al-Ahzaab - The Clans,417
+34. Saba - Sheba,427
+35. Faatir - The Originator,433
+36. Ya-Sin - Ya-Sin,439
+37. As-Saaffaat - The Ranks,445
+38. Saad - Saad,452
+39. Az-Zumar - The Crowds,457
+40. Ghafir - The Forgiver,466
+41. Fussilat - Explained in Detail,476
+42. Ash-Shura - The Consultation,482
+43. Az-Zukhruf - The Gold Adornments,488
+44. Ad-Dukhaan - The Smoke,495
+45. Al-Jaathiyah - The Kneeling,498
+46. Al-Ahqaaf - The Sand Dunes,501
+47. Muhammad - Muhammad,506
+48. Al-Fath - The Victory,510
+49. Al-Hujuraat - The Private Apartments,514
+50. Qaaf - Qaaf,517
+51. Adh-Dhaariyaat - The Winnowing Winds,519
+52. At-Toor - The Mount,522
+53. An-Najm - The Star,525
+54. Al-Qamar - The Moon,527
+55. Ar-Rahman - The Most Merciful,530
+56. Al-Waqi'ah - The Inevitable,533
+57. Al-Hadeed - Iron,536
+58. Al-Mujadila - The Pleading Woman,541
+59. Al-Hashr - The Gathering,544
+60. Al-Mumtahanah - The Examined One,548
+61. As-Saff - The Ranks,550
+62. Al-Jumu'ah - Friday,552
+63. Al-Munafiqoon - The Hypocrites,553
+64. At-Taghabun - The Cheating,555
+65. At-Talaq - Divorce,557
+66. At-Tahreem - The Prohibition,559
+67. Al-Mulk - The Dominion,561
+68. Al-Qalam - The Pen,563
+69. Al-Haaqqa - The Reality,565
+70. Al-Ma'aarij - The Ascending Stairways,567
+71. Nuh - Noah,569
+72. Al-Jinn - The Jinn,571
+73. Al-Muzzammil - The Enshrouded One,573
+74. Al-Muddaththir - The Cloaked One,574
+75. Al-Qiyamah - Resurrection,576
+76. Al-Insaan - The Human,577
+77. Al-Mursalaat - The Emissaries,579
+78. An-Naba' - The Great News,581
+79. An-Naazi'aat - The Soul-Snatchers,582
+80. Abasa - He Frowned,584
+81. At-Takweer - The Folding Up,585
+82. Al-Infitar - The Cleaving Asunder,586
+83. Al-Mutaffifeen - The Cheats,586
+84. Al-Inshiqaaq - The Splitting Asunder,588
+85. Al-Burooj - The Constellations,589
+86. At-Taariq - The Night-Visitant,590
+87. Al-A'la - The Most High,590
+88. Al-Ghaashiyah - The Overwhelming Event,591
+89. Al-Fajr - The Dawn,592
+90. Al-Balad - The City,593
+91. Ash-Shams - The Sun,594
+92. Al-Layl - The Night,594
+93. Ad-Dhuha - The Morning Hours,595
+94. Ash-Sharh - The Expansion,595
+95. At-Tin - The Fig,596
+96. Al-Alaq - The Clinging Clot,596
+97. Al-Qadr - The Night of Decree,597
+98. Al-Bayyinah - The Clear Evidence,597
+99. Az-Zalzalah - The Earthquake,598
+100. Al-'Aadiyat - The Chargers,598
+101. Al-Qaari'ah - The Calamity,599
+102. At-Takaathur - The Competition,599
+103. Al-'Asr - The Time,600
+104. Al-Humazah - The Scandalmonger,600
+105. Al-Feel - The Elephant,600
+106. Quraish - The Quraysh,601
+107. Al-Maa'oon - The Small Kindnesses,601
+108. Al-Kawthar - Abundance,601
+109. Al-Kaafiroon - The Disbelievers,602
+110. An-Nasr - The Help,602
+111. Al-Masad - The Plaited Rope,602
+112. Al-Ikhlas - Purity of Faith,603
+113. Al-Falaq - The Daybreak,603
+114. An-Naas - Mankind,603
