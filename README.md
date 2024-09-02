@@ -7,10 +7,10 @@ Please open a github issue if you can think of any improvements to the PDF!
 ## How to Use this Repository
 #### Option 1: Simply download the mushaf
 
-Download Link [Google Drive](https://drive.google.com/file/d/15eOohukjSJD95aqnxm9RgbeqeNRvYsgw/view?usp=sharing)
+Download Link [(Google Drive)](https://drive.google.com/file/d/15eOohukjSJD95aqnxm9RgbeqeNRvYsgw/view?usp=sharing)
 
 **Notes**
-- The file size is almost 200 mb; I could not find a way to further reduce the size while keeping the high resolution.
+- The file size is almost 200 Mb; I could not find a way to further reduce the size while keeping the high resolution.
 
 #### Option 2: Compile the mushaf yourself using Python
 This is tested for Ubuntu.
