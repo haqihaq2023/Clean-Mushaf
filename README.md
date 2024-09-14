@@ -11,7 +11,7 @@ If you have suggestions or improvements for the PDF, please feel free to open an
 **[Download Link (Google Drive)](https://drive.google.com/file/d/1WGePc8kzeT3_rq0kjE-nxAMu6DUL1S2O/view?usp=sharing)**
 
 **Notes:**
-- The file size is approximately 200 MB. The high resolution of the pages necessitates this size, and further compression would compromise quality.
+- The file size is approximately 200 MB. Compression algorithms can't seem to further reduce the PDF size.
 
 ### Option 2: Compile the Mushaf Yourself Using Python
 
