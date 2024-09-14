@@ -8,7 +8,7 @@ If you have suggestions or improvements for the PDF, please feel free to open an
 
 ### Option 1: Simply Download the Mushaf
 
-**[Download Link (Google Drive)](https://drive.google.com/file/d/15eOohukjSJD95aqnxm9RgbeqeNRvYsgw/view?usp=sharing)**
+**[Download Link (Google Drive)](https://drive.google.com/file/d/1WGePc8kzeT3_rq0kjE-nxAMu6DUL1S2O/view?usp=sharing)**
 
 **Notes:**
 - The file size is approximately 200 MB. The high resolution of the pages necessitates this size, and further compression would compromise quality.
